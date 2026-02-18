@@ -46,8 +46,9 @@ sudo apt-get install build-essential libncurses-dev
 ```
 
 ### macOS (homebrew)
+install:
 ```bash
-install: brew install ncurses
+ brew install ncurses
 ```
 
 ### Compile:
